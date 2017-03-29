@@ -1,6 +1,6 @@
 
 
-#---pyspark implementation of KONMF Recommender system--
+#---pyspark implementation of Kernel NMF --------------
 #-----------------spark 2.1.0 --------------------------
 
 print('starting KOGNMF RS script')
